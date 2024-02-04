@@ -4,6 +4,7 @@
 ![image](https://github.com/BeautifulSosalochka/markdownRepo/assets/85421342/708a7cb1-6e76-43d9-8b2f-ef52b8e3a4bd)
 
 #### Пример точки входа:
+
 \```cpp
 int main() {
     int passwordLength;
@@ -22,5 +23,4 @@ int main() {
     }
 
     return 0;
-}
-\```
+} \```
