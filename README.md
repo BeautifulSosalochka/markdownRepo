@@ -5,7 +5,7 @@
 
 #### Пример точки входа:
 
-\```cpp
+```cpp
 int main() {
     int passwordLength;
     std::cout << "Enter password length: ";
@@ -23,4 +23,5 @@ int main() {
     }
 
     return 0;
-} \```
+}
+```
